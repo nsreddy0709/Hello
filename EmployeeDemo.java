@@ -25,7 +25,7 @@ class EmployeeDemo
 {
    public static void main(String args[])
    {
-      System.out.println("Employee Demo");
+      System.out.print("Employee Demo");
       TreeSet<Employee> A=new TreeSet<>();
       A.add(new Employee("xyz",65,5000));
       A.add(new Employee("abc",36,7000));
