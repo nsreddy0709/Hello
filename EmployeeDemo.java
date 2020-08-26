@@ -60,4 +60,5 @@ class EmployeeDemo
          System.out.println(k);
       }
    }
+   System.out.println("Code completed");
 }
